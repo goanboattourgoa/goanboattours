@@ -1,12 +1,15 @@
 title: "Goan Boat Tours Blog"
 email: "goanboattourgoa@gmail.com"
 description: "Yacht Cruises, Scuba Diving, Watersports & Goa Tour Bookings – Goan Boat Tours Blog"
+
 url: "https://blog.goanboattours.com"
-baseurl: ""  # DO NOT include /blog here
+baseurl: ""
 
 repository: "goanboattourgoa/goanboattours"
 
-theme: "minimal-mistakes-jekyll"
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 # -----------------------------
 # SEO & Plugins
@@ -15,6 +18,14 @@ markdown: kramdown
 highlighter: rouge
 
 plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-include-cache
+
+# REQUIRED for GitHub Pages (whitelist plugins)
+whitelist:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -89,12 +100,13 @@ defaults:
       related: true
 
 # -----------------------------
-# Minimal Mistakes Theme Settings
+# Search
 # -----------------------------
-minimal_mistakes_skin: "default"
-
 search: true
 
+# -----------------------------
+# Footer
+# -----------------------------
 footer:
   links:
     - label: "Website"

@@ -1,0 +1,103 @@
+title: "Goan Boat Tours Blog"
+email: "goanboattourgoa@gmail.com"
+description: "Yacht Cruises, Scuba Diving, Watersports & Goa Tour Bookings – Goan Boat Tours Blog"
+url: "https://blog.goanboattours.com"
+baseurl: ""  # DO NOT include /blog here
+
+repository: "goanboattourgoa/goanboattours"
+
+theme: "minimal-mistakes-jekyll"
+
+# -----------------------------
+# SEO & Plugins
+# -----------------------------
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-include-cache
+
+paginate: 10
+paginate_path: "/page:num/"
+
+# -----------------------------
+# Author Info
+# -----------------------------
+author:
+  name: "Goan Boat Tours"
+  avatar: "/assets/images/logo.png"
+  bio: "Yacht Cruises, Scuba Diving & Watersports in Goa."
+  email: "goanboattourgoa@gmail.com"
+  links:
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://goanboattours.com"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:goanboattourgoa@gmail.com"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/goanboattour"
+
+# -----------------------------
+# Google Analytics (GA4)
+# -----------------------------
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-JNWHPWCB87"
+
+# -----------------------------
+# Social Sharing Image
+# -----------------------------
+logo: "/assets/images/logo.png"
+
+# -----------------------------
+# Build settings
+# -----------------------------
+permalink: /:title/
+future: true
+timezone: "Asia/Kolkata"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - "*.gemspec"
+  - "*.gem"
+  - vendor
+  - README.md
+  - LICENSE
+
+# -----------------------------
+# Collections (Blog Default)
+# -----------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+# -----------------------------
+# Minimal Mistakes Theme Settings
+# -----------------------------
+minimal_mistakes_skin: "default"
+
+search: true
+
+footer:
+  links:
+    - label: "Website"
+      url: "https://goanboattours.com"
+    - label: "Instagram"
+      url: "https://instagram.com/goanboattour"

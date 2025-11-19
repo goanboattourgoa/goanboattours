@@ -1,6 +1,6 @@
 ---
-title: "Sample Post"
-date: 2025-11-11
+title: "Sample Blog Post"
 layout: single
 ---
-This is a sample blog post.
+
+This is a test post for your new Minimal Mistakes blog.

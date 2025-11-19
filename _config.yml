@@ -40,7 +40,7 @@ paginate_path: "/page:num/"
 # -----------------------------
 author:
   name: "Goan Boat Tours"
-  avatar: "/images/logo.png"
+  avatar: "assets/images/logo.png"
   bio: "Yacht Cruises, Scuba Diving & Watersports in Goa."
   email: "goanboattourgoa@gmail.com"
   links:

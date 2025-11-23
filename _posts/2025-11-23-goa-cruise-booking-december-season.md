@@ -1,5 +1,4 @@
 ---
-title: "Goa Cruise Booking in December – Best Season Guide for Holiday Travellers"
 description: "December is the peak season for cruise bookings in Goa. A detailed Hinglish SEO guide explaining why December is the best month to enjoy river cruises, dinner cruises, and scenic sailing experiences."
 date: 2025-11-23
 author: "Goan Boat Tour"

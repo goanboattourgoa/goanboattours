@@ -7,8 +7,8 @@ layout: post
 The **Infinity A/C Luxury Yacht** is perfect for those who love luxurious indoor comfort along with scenic cruising in Goa.
 
 Also check:
-- **[Platinum Luxury Yacht](https://blog.goanboattours.com/2025-11-25-platinum-luxury-yacht-goa.md)**
-- **[Private Yacht Experience Blog](https://blog.goanboattours.com/2025-11-25-private-yacht-goa-experience.md)**
+- **[Platinum Luxury Yacht](https://blog.goanboattours.com/2025-11-25-platinum-luxury-yacht-goa)**
+- **[Private Yacht Experience Blog](https://blog.goanboattours.com/2025-11-25-private-yacht-goa-experience)**
 
 ## Highlights of Infinity A/C Luxury Yacht
 - Fully air-conditioned interior cabin  

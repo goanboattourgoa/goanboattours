@@ -65,7 +65,7 @@ analytics:
 # -----------------------------
 # Social Sharing Image
 # -----------------------------
-logo: "/images/logo.png"
+logo: "/assets/images/logo.png"
 
 # -----------------------------
 # Build settings

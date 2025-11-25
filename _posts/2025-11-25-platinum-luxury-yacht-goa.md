@@ -1,64 +1,28 @@
 ---
-title: "Platinum Luxury Yacht in Goa – Full Review & Guest Experience"
-description: "A premium experience review of the Platinum Luxury Yacht in Goa. Perfect for birthdays, anniversaries, proposals, and intimate family celebrations."
+title: "Platinum Luxury Yacht – Full Review & Experience"
 date: 2025-11-25
-author: "Goan Boat Tour"
-tags:
-  - platinum yacht goa
-  - luxury yacht goa
-  - yacht booking goa
-  - birthday yacht goa
-  - private yacht goa
+layout: post
 ---
 
-## ⭐ Platinum Luxury Yacht in Goa – Detailed Review  
-**Capacity:** 18 Guests  
-**Best For:** Birthdays, Anniversaries, Romantic Celebrations, Sunset Experiences  
+Looking for a top-tier luxury yacht in Goa? The **Platinum Luxury Yacht** delivers premium comfort, excellent ambiance, and a perfect backdrop for celebrations.
+
+Also check:
+- **[Infinity A/C Luxury Yacht](https://blog.goanboattours.com/2025-11-25-infinity-ac-luxury-yacht-goa.md)**
+- **[Private Yacht Experience Blog](https://blog.goanboattours.com/2025-11-25-private-yacht-goa-experience.md)**
+
+## Highlights of Platinum Luxury Yacht
+- Spacious upper deck  
+- Luxury interiors  
+- Great for birthdays, proposals & shoots  
+- Professional crew  
+- Smooth sailing experience  
+
+The design and finishing of this yacht easily make it one of the most photogenic yachts in Goa.
+
+## My Experience
+Everything from boarding to cruising was seamless. The yacht offers both comfort and style, making it ideal for classy celebrations.
+
+If you want a premium celebration with a classy vibe, Platinum is a perfect choice.
 
 ---
-
-If you're searching for a **premium yet intimate yacht** for your celebration in Goa, the **Platinum Luxury Yacht** is one of the finest choices. Stylish, spacious, and thoughtfully designed — it offers a perfect blend of comfort and elegance.
-
----
-
-## 🚤 Highlights of the Platinum Luxury Yacht
-- **Maximum capacity:** 18 guests  
-- **3 beautiful cabins** + **2 washrooms**  
-- **Air-conditioned interior lounge**  
-- Elegant flybridge with beautiful sunset views  
-- Professional crew onboard  
-- Perfect for couples, families, and small gatherings  
-
----
-
-## 🌊 The On-Water Experience
-The 2-hour charter includes:
-- **1 hour cruising** through serene Goan waterways  
-- **1 hour at anchor** for celebrations, photos, and relaxing  
-
-Guests enjoy the perfect ambience with A/C comfort inside and breezy decks outside.
-
-Refreshments included:
-- Soft drinks  
-- Mineral water  
-- Chips  
-- Music onboard  
-
----
-
-## 🎉 Celebrations Made Special
-Whether it's a birthday surprise, an anniversary, or a romantic sunset, the Platinum Yacht offers the perfect backdrop.
-
-Optional Add-ons:
-- Decorations  
-- Curated food  
-- Live music  
-- Professional photography  
-
----
-
-## 🔗 Related Blogs  
-- **[Private Yacht in Goa – Main Guide](./2025-11-25-private-yacht-in-goa-review.md)**  
-- **[Infinity A/C Luxury Yacht Review](./2025-11-25-infinity-ac-luxury-yacht-goa.md)**  
-
-Goan Boat Tour ensures every celebration on the Platinum Yacht feels truly special. 🌅❤️
+Posted by Goan Boat Tours – Luxury Yacht Experiences in Goa

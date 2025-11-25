@@ -7,8 +7,8 @@ layout: post
 Looking for a top-tier luxury yacht in Goa? The **Platinum Luxury Yacht** delivers premium comfort, excellent ambiance, and a perfect backdrop for celebrations.
 
 Also check:
-- **[Infinity A/C Luxury Yacht](https://blog.goanboattours.com/2025-11-25-infinity-ac-luxury-yacht-goa.md)**
-- **[Private Yacht Experience Blog](https://blog.goanboattours.com/2025-11-25-private-yacht-goa-experience.md)**
+- **[Infinity A/C Luxury Yacht](https://blog.goanboattours.com/2025-11-25-infinity-ac-luxury-yacht-goa)**
+- **[Private Yacht Experience Blog](https://blog.goanboattours.com/2025-11-25-private-yacht-goa-experience)**
 
 ## Highlights of Platinum Luxury Yacht
 - Spacious upper deck  
